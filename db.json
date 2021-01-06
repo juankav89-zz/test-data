@@ -1,30 +1,56 @@
 {
 	"top-airports" : [
-		{"id":1, "group": "Colombia", "name":"El Dorado Airport, Bogota.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":2, "group": "Colombia", "name":"Ernesto Cortissoz Airport, Barranquilla.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":3, "group": "Colombia", "name":"Alfonso Bonilla Aragón Airport, Cali.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":4, "group": "Colombia", "name":"Jose Maria Cordova Airport, Medellin.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":5, "group": "Colombia", "name":"Simon Bolivar Airport, Santa Marta.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-	
-		{"id":6, "group": "USA", "name":"Hartsfield Jackson Airport, Atlanta, GA.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":7, "group": "USA", "name":"O´Hare Airport, Chicago, IL.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":8, "group": "USA", "name":"Los Angeles Airport, Los Angeles, CA.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":9, "group": "USA", "name":"Dallas Airport, Dallas, TX.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":10, "group": "USA", "name":"Denver Airport, Denver, CO.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-
-		{"id":11, "group": "Europe", "name":"Madrid Barajas Airport, Madrid, SP.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":12, "group": "Europe", "name":"Charles de Gaulle Airport, Paris, FR.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":13, "group": "Europe", "name":"Frankfurt d el Meno Airport, Frankfurt, DE.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":14, "group": "Europe", "name":"Roma Fiumicino Airport, Rome, IT.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-	
-		{"id":15, "group": "South America", "name":"Sao Paulo - Guarulhos International.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":16, "group": "South America", "name":"Buenos Aires, Ezeiza International Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":17, "group": "South America", "name":"Santiago de Chile - Arturo Merino Benitez.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":18, "group": "South America", "name":"Lima - J Chavez International.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		
-		{"id":19, "group": "Central America", "name":"Cancún Intl Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":20, "group": "Central America", "name":"Benito Juárez Intl Airport, Mexico.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":21, "group": "Central America", "name":"San Juan - Luis Munoz Marin International Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
-		{"id":22, "group": "Central America", "name":"Juan Santamaria Airport, San Jose.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+		{
+			"group": "Colombia",
+			"title": "Rental cars in Colombia",
+			"airports": [
+				{"name":"El Dorado Airport, Bogota.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Ernesto Cortissoz Airport, Barranquilla.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Alfonso Bonilla Aragón Airport, Cali.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Jose Maria Cordova Airport, Medellin.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Simon Bolivar Airport, Santa Marta.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+			]
+		},
+		{
+			"group": "USA",
+			"title": "Rental cars in USA",
+			"airports": [
+				{"name":"Hartsfield Jackson Airport, Atlanta, GA.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"O´Hare Airport, Chicago, IL.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Los Angeles Airport, Los Angeles, CA.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Dallas Airport, Dallas, TX.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Denver Airport, Denver, CO.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+			]
+		},
+		{
+			"group": "Europe",
+			"title": "Rental cars in Europe",
+			"airports": [
+				{"name":"Madrid Barajas Airport, Madrid, SP.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Charles de Gaulle Airport, Paris, FR.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Frankfurt d el Meno Airport, Frankfurt, DE.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Roma Fiumicino Airport, Rome, IT.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+			]
+		},
+		{
+			"group": "SouthAmerica",
+			"title": "Rental cars in South America",
+			"airports": [
+				{"name":"Sao Paulo - Guarulhos International.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Buenos Aires, Ezeiza International Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Santiago de Chile - Arturo Merino Benitez.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Lima - J Chavez International.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+			]
+		},
+		{
+			"group": "CentralAmerica",
+			"title": "Rental cars in Central America",
+			"airports": [
+				{"name":"Cancún Intl Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Benito Juárez Intl Airport, Mexico.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"San Juan - Luis Munoz Marin International Airport.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"},
+				{"name":"Juan Santamaria Airport, San Jose.", "href":"//www.rentingcarz.com/en/rent-a-car-in-usa/rent-a-car-in-florida/rent-a-car-in-miami/"}
+			]
+		}
 	]
 }
